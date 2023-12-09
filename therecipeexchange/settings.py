@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', 'therecipeexchange.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'https://therecipeexchange-5327dde79334.herokuapp.com/']
 
 
 # Application definition
